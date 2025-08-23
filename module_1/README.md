@@ -23,7 +23,7 @@ By the end of this module, students will:
 
 ---
 
-## Video Lessons - complete by Wednesday, January 15th
+## Video Lessons - complete by Wednesday
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
